@@ -5,4 +5,4 @@ python-docx==0.8.11
 Werkzeug==2.3.7
 gunicorn==21.2.0
 requests==2.31.0
-pymilvus==2.6.0
+pymilvus==2.6.0b0
