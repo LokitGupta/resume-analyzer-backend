@@ -6,7 +6,7 @@ import docx
 from datetime import datetime
 import uuid
 import logging
-from pymilvus import MilvusClient, model
+from pymilvus import MilvusClient  # Fixed: removed 'model' from import
 from werkzeug.utils import secure_filename
 import json
 
